@@ -16,7 +16,8 @@
 
 ## 코드 실행
 
-- HanBert-nsmc : 폴더 내 Hanbert_run_linux_command.ipynb 이용
+- HanBert-nsmc : 폴더 내 Hanbert_run_linux_command.ipynb 이용 사전에 [HanBert-54kN-torch](https://drive.google.com/file/d/1LUyrnhuNC3e8oD2QMJv8tIDrXrxzmdu4/view)에서 "HanBert-nsmc/HanBert-54kN-torch"에 들어갈 것들을 받은 후 실행해야 함
+ 
 
 - KoBERT-nsmc : 폴더 내 KoBERT_run_linux_command.ipynb 이용
 
@@ -27,10 +28,10 @@
 
 ## 참고한 깃 링크들
 
-- https://github.com/monologg/HanBert-nsmc (HanBert-nsmc)
-- https://github.com/monologg/KoBERT-nsmc (KoBERT)
-- https://github.com/monologg/KoELECTRA (KoELECTRA)
+- <https://github.com/monologg/HanBert-nsmc> (HanBert-nsmc)
+- <https://github.com/monologg/KoBERT-nsmc> (KoBERT)
+- <https://github.com/monologg/KoELECTRA> (KoELECTRA)
 
-- https://github.com/KisuYang/EmotionX-KU (BERT_MAX)
+- <https://github.com/KisuYang/EmotionX-KU> (BERT_MAX)
 
-- https://github.com/SKTBrain/KoBERT (KoBERT)
+- <https://github.com/SKTBrain/KoBERT> (KoBERT)
